@@ -20,7 +20,6 @@
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5%20-ff0000.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<br>
 
 ### Connect with me:
 <br>
