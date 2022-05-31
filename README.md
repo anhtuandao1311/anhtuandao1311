@@ -1,15 +1,16 @@
 ## Hi there, I'm Anh Tuan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=anhtuandao1311&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)  [![Website](https://img.shields.io/static/v1?label=MY%20WEBSITE&message=JOIN&color=brightgreen&style=for-the-badge)](https://www.facebook.com/profile.php?id=100015061987142)  ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/DataScience?style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=anhtuandao1311&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)  ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ComputerScience?style=for-the-badge)
+[![Website](https://img.shields.io/static/v1?label=MY%20WEBSITE&message=JOIN&color=brightgreen&style=for-the-badge)](https://www.facebook.com/profile.php?id=100015061987142)
 
-## I'm `striving to be` a Data Scientist, Machine Learning Expert and Web Developer!
+## I'm `learning to be` a Data Scientist, Machine Learning Expert and Web Developer!
 
-- 🔭 I just launched my first project: Simple Keylogger!
-- :computer: I’m currently learning Data science and Web Development using HTML5, CSS3 and JS
+- :sparkles: I just launched my first project: Simple Keylogger!
+- :notebook_with_decorative_cover: I’m currently learning Data science and Web Development using HTML5, CSS3 and JS
 - 👯 I’m eager to collaborate with other content creators and developers
-- 🚀 2022 Goals: Contribute to more Open Source projects, prepare myself for internship
-- ⚡ More about me: Ballad songs and romantic movies are my favourites
+- :pushpin: Current Goals: Prepare myself for internship, do more projects to level up my skills 
+- :v: More about me: Ballad songs and romantic movies are my favourites
 
 ### Top Technologies
 
