@@ -47,13 +47,13 @@
 ➡️ [more blog posts...](https://www.deepneuron.org/)
 
 ---
-<summary>:computer: Languages</summary>
+### :bar_chart: Languages
 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuandao1311&layout=compact&theme=yeblu)
 
-<summary>:computer: GitHub Stats</summary>
+### :notebook: GitHub Stats
 <br>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anhtuandao1311&show_icons=true&theme=tokyonight)
