@@ -10,7 +10,7 @@
 - :notebook_with_decorative_cover: I’m currently learning Data science and Web Development using HTML5, CSS3 and JS
 - 👯 I’m eager to collaborate with other content creators and developers
 - :pushpin: Current Goals: Prepare myself for internship, do more projects to level up my skills 
-- :v: More about me: Ballad songs and romantic movies are my favourites
+- :v:  More about me: Ballad songs and romantic movies are my favourites
 
 ### Top Technologies
 
