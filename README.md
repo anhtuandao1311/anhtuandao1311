@@ -2,12 +2,12 @@
 <br>
 
 ![Visitors](https://komarev.com/ghpvc/?username=anhtuandao1311&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)  ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ComputerScience?style=for-the-badge)
-[![Website](https://img.shields.io/static/v1?label=MY%20WEBSITE&message=JOIN&color=brightgreen&style=for-the-badge)](https://www.facebook.com/profile.php?id=100015061987142)
+[![Website](https://img.shields.io/static/v1?label=MY%20WEBSITE&message=JOIN&color=brightgreen&style=for-the-badge)](https://anhtuandao1311.netlify.app/)
 
 ## I'm `learning to be` a Data Scientist, Machine Learning Expert and Web Developer!
 
-- :sparkles: I just launched my first project: Simple Keylogger!
-- :notebook_with_decorative_cover: I’m currently learning Data science and Web Development using HTML5, CSS3 and JS
+- :sparkles: I just launched my first project: Portfolio Website!
+- :notebook_with_decorative_cover: I’m currently learning Data Science and Web Development using HTML5, CSS3 and JS
 - 👯 I’m eager to collaborate with other content creators and developers
 - :pushpin: Current Goals: Prepare myself for internship, do more projects to level up my skills 
 - :v:  More about me: Ballad songs and romantic movies are my favourites
@@ -45,7 +45,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anhtuandao1311&show_icons=true&theme=tokyonight)
 
-[website]: https://www.facebook.com/profile.php?id=100015061987142
+[website]: https://anhtuandao1311.netlify.app/
 [youtube]: https://www.youtube.com/channel/UCQCNEs_x5eR1eos0pLX1LUA
 [instagram]: https://www.instagram.com/anhtuandao1311_/
 [linkedin]: https://www.facebook.com/profile.php?id=100015061987142
