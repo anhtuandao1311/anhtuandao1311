@@ -47,6 +47,6 @@
 
 [website]: https://anhtuandao1311.netlify.app/
 [youtube]: https://www.youtube.com/channel/UCQCNEs_x5eR1eos0pLX1LUA
-[instagram]: https://www.instagram.com/anhtuandao1311_/
+[instagram]: https://www.instagram.com/anhtuandao1311/
 [linkedin]: https://www.facebook.com/profile.php?id=100015061987142
 [error]: https://www.facebook.com/profile.php?id=100015061987142
