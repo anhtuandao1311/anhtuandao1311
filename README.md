@@ -4,23 +4,27 @@
 ![Visitors](https://komarev.com/ghpvc/?username=anhtuandao1311&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)  ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ComputerScience?style=for-the-badge)
 [![Website](https://img.shields.io/static/v1?label=MY%20WEBSITE&message=JOIN&color=brightgreen&style=for-the-badge)](https://anhtuandao1311.netlify.app/)
 
-## I'm `learning to be` a Data Scientist, Machine Learning Expert and Web Developer!
+## I'm `learning to be` a Software Engineer in the future!
 
 - :sparkles: I just launched my first project: Portfolio Website!
-- :notebook_with_decorative_cover: I’m currently learning Data Science and Web Development using HTML5, CSS3 and JS
+- :notebook_with_decorative_cover: I’m currently learning full-stack Web Development
 - 👯 I’m eager to collaborate with other content creators and developers
 - :pushpin: Current Goals: Prepare myself for internship, do more projects to level up my skills 
 - :v:  More about me: Ballad songs and romantic movies are my favourites
 
 ### Top Technologies
 
-<img align="left" alt="C++"  src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img align="left" alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-<img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5%20-ff0000.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img align="left" alt="Express"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+
+<img align="left" alt="Bootstrap"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img align="left" alt="Postgres"  src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img align="left" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 
 ### Connect with me:
 <br>
