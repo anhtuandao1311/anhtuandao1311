@@ -4,7 +4,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=anhtuandao1311&color=0ddfff&style=for-the-badge&label=PROFILE+VIEWS)  ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ComputerScience?style=for-the-badge)
 [![Website](https://img.shields.io/static/v1?label=MY%20WEBSITE&message=JOIN&color=brightgreen&style=for-the-badge)](https://anhtuandao1311.netlify.app/)
 
-## I'm `learning to be` a Software Engineer in the future!
+## I'm `learning to be` a Full-stack Developer in the future!
 
 - :sparkles: I just launched my first project: Portfolio Website!
 - :notebook_with_decorative_cover: I’m currently learning full-stack Web Development
